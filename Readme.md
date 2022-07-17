@@ -1,4 +1,4 @@
-Olá esse prejeto ensina o Git
-PRIMEIRO PARAGRAFO 
+Olá esse projeto ensina o Git
 
-Projeto teste
+Esta pasta é um Projeto teste 
+
